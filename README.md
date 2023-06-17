@@ -1,6 +1,6 @@
 # Facebook_Clone 26/03/2022
-This is a simple (dark-theme) clone of Facebook has simple
-styling - made as my first repo.
+This is a simple (dark-theme) clone of Facebook that has simple
+styling made as my first repo.
 
 Installation notes
 -----------------------------------------------------------
